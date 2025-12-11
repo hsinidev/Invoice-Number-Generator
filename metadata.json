@@ -1,0 +1,5 @@
+{
+  "name": "Invoice Number Generator",
+  "description": "A modern, multi-file ReactJS application for an Invoice Number Generator. The tool must instantly generate sequential, date-based, or random invoice numbers, adhering to common business formatting standards, using Pure JavaScript for generation and tracking.",
+  "requestFramePermissions": []
+}
