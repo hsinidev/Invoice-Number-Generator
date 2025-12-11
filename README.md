@@ -13,7 +13,7 @@ A modern web application for generating invoice numbers with various formatting 
 <br />
 
 <div align="center">
-  <a href="https://doodax.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://doodax.com/tools/invoice-number-generator/index.html" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-doodax.com-ff006e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" height="50" />
   </a>
 </div>
